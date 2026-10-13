@@ -1,0 +1,7 @@
+--- RESULTADOS DEL AJUSTE EN FORTRAN ---
+N                     = 89
+Pendiente a           =   4.048735 s^2/m
+Intercepto b          =  -0.002888 s^2
+R^2                   =   0.999748
+Gravedad calculada g  =     9.7508 m/s^2
+----------------------------------------
